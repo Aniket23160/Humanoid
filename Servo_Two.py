@@ -1,3 +1,7 @@
+'''
+    simply using servo motors with raspberry pi
+'''
+
 import RPi.GPIO as GPIO
 import time
 
